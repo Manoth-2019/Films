@@ -16,6 +16,10 @@ public class Person {
 		System.out.println("tvk party");
 
 	}
+	private void buizz() {
+		System.out.println("tvk party");
+
+	}
 
 	public static void main(String[] xyz) {
 		int salary = 5555;
